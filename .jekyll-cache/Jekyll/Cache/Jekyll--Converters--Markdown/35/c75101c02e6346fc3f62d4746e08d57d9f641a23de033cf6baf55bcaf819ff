@@ -1,57 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>joah.tech | My Resume</title>
-  
-  <link rel="stylesheet" href="/assets/css/post.css" />
-  <link rel="stylesheet" href="/assets/css/syntax.css" />
-  
-  <link rel="stylesheet" href="/assets/css/common.css" />
-  <script src="/assets/js/categories.js"></script>
-  
-  <script defer src="/assets/js/lbox.js"></script>
-  
-</head>
-
-  <body>
-    <main>
-      <header>
-  <a class="site-title" href="/">joah.tech</a>
-</header>
-
-      <section class="article">
-        <div class="article-header">
-          <h2 class="article-title">My Resume</h2>
-          <small class="date">08 Aug 2023</small>
-          <div class="categories">
-            
-            <a href="#!" class="category">resume</a>
-            
-            <a href="#!" class="category">professional</a>
-            
-            <a href="#!" class="category">work</a>
-            
-          </div>
-        </div>
-        <div class="content"><h1 id="about-me">About Me</h1>
+I"�<h1 id="about-me">About Me</h1>
 <p>Hey! I’m <a href="##" title="J-OH-uh">Joah</a>. I am a software engineer with 3+ years of professional experience in the games industry. I have worked at multiple companies, on multiple titles for slot games, card games, and keno games! I love games, art, and programming. This passion has led me to a career that I love, and a fun hobby. In my personal time I have participated in several game jams, and <em>always</em> have some personal projects that I’m working on.</p>
-
-<p><strong>Skills:</strong></p>
-<ul>
-  <li>Unity3D, Godot, Git, Octopus, Bamboo, Docker</li>
-  <li>C#, Python, HTML, Javascript/Typescript, Java, and more</li>
-  <li>Continuous Integration &amp; Delivery</li>
-  <li>Learning and adapting to any new tool or framework</li>
-  <li>Takes ownership over what is given, with the goal of maintaining and improving</li>
-  <li>Accepts and gives opinions candidly, with the goal of reaching the best decision no matter the situation</li>
-</ul>
 
 <hr />
 
-<h1 id="experience">Experience</h1>
+<h1 id="work">Work</h1>
 <h4 id="grover-gaming---game-developer"><a href="https://grovergaming.com/">Grover Gaming</a> - <em>Game Developer</em></h4>
 <p><strong><em>July 2020 - June 2022</em></strong><br />
 I worked as the main developer of a small studio team, and worked on multiple slot and keno style games. The studio team consisted of 3 artists, 2 QA testers, and a producer. We remastered the company’s best selling game in Unity. My team and I maintained effectiveness while working remotely for 6 months during quarantine because of Covid-19.</p>
@@ -81,18 +33,4 @@ Currently I am on a small team of developers focused on supporting and improving
   <li>August 2015 - May 2017</li>
   <li>Took Intro to Programming classes, Physics, Calculus I - V, Technical Communication.</li>
 </ul>
-</div>
-      </section>
-      <footer>
-  <p>&copy; 1996 - 2023 | joah.tech</p>
-</footer>
-
-    </main>
-    <section id="category-modal-bg"></section>
-<section id="category-modal">
-  <h1 id="category-modal-title"></h1>
-  <section id="category-modal-content"></section>
-</section>
-
-  </body>
-</html>
+:ET

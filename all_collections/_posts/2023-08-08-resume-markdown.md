@@ -6,22 +6,31 @@ categories: ["resume", "professional", "work"]
 ---
 
 # About Me
-Hey! I'm <a href="#" data-toggle="tooltip" data-original-title="{{site.data.author.pronunciation}}">Joah</a>.
+Hey! I'm [Joah](## "J-OH-uh"). I am a software engineer with 3+ years of professional experience in the games industry. I have worked at multiple companies, on multiple titles for slot games, card games, and keno games! I love games, art, and programming. This passion has led me to a career that I love, and a fun hobby. In my personal time I have participated in several game jams, and *always* have some personal projects that I'm working on.
+
+**Skills:**
+- Unity3D, Godot, Git, Octopus, Bamboo, Docker
+- C#, Python, HTML, Javascript/Typescript, Java, and more
+- Continuous Integration & Delivery
+- Learning and adapting to any new tool or framework
+- Takes ownership over what is given, with the goal of maintaining and improving
+- Accepts and gives opinions candidly, with the goal of reaching the best decision no matter the situation
 
 ---
 
-# Work
-#### Grover Gaming - Game Developer
-- July 2020 - July 2022
-- Shipped 5 new games made in Unity as sole developer by collaborating with a team of artists, QA, and producer.
-- Remastered company’s best selling game by bringing it from Unity 3.5 to 2017. Brought in all new graphics, updated features, and bug fixes.
-- Currently in the process of a promotion to Lead Game Developer to mentor other developers.
-- Worked remotely for 6 months during Covid-19 lockdowns and maintained interpersonal communication with my studio team on Slack.
+# Experience
+#### [Grover Gaming](https://grovergaming.com/) - *Game Developer*
+***July 2020 - June 2022***  
+I worked as the main developer of a small studio team, and worked on multiple slot and keno style games. The studio team consisted of 3 artists, 2 QA testers, and a producer. We remastered the company's best selling game in Unity. My team and I maintained effectiveness while working remotely for 6 months during quarantine because of Covid-19.
+
+#### [Draftkings](https://www.draftkings.com/) - *Software Engineer*
+***July 2022 - Now***  
+Currently I am on a small team of developers focused on supporting and improving the infrastructure used to create and deploy our iGaming casino games. Since starting I have taken responsibility of the process for deploying these games and shipped hundreds of updates to our catalog.
 
 ---
 
 # Education
-#### University of North Carolina
+#### [University of North Carolina Charlotte](https://www.charlotte.edu/)
 - Charlotte, NC
 - BS Computer Science
 - August 2017 - May 2020
@@ -30,7 +39,7 @@ Hey! I'm <a href="#" data-toggle="tooltip" data-original-title="{{site.data.auth
 
 ---
 
-#### Nash Community College
+#### [Nash Community College](https://nashcc.edu/)
 - Rocky Mount, NC
 - Associate in Science
 - August 2015 - May 2017
