@@ -19,13 +19,13 @@ Hey! I'm [Joah](## "J-OH-uh"). I am a software engineer with 3+ years of profess
 ---
 
 # Experience
-#### [Grover Gaming](https://grovergaming.com/) - *Game Developer*
-***July 2020 - June 2022***  
-I worked as the main developer of a small studio team, and worked on multiple slot and keno style games. The studio team consisted of 3 artists, 2 QA testers, and a producer. We remastered the company's best selling game in Unity. My team and I maintained effectiveness while working remotely for 6 months during quarantine because of Covid-19.
-
 #### [Draftkings](https://www.draftkings.com/) - *Software Engineer*
 ***July 2022 - Now***  
 Currently I am on a small team of developers focused on supporting and improving the infrastructure used to create and deploy our iGaming casino games. Since starting I have taken responsibility of the process for deploying these games and shipped hundreds of updates to our catalog.
+
+#### [Grover Gaming](https://grovergaming.com/) - *Game Developer*
+***July 2020 - June 2022***  
+I worked as the main developer of a small studio team, and worked on multiple slot and keno style games. The studio team consisted of 3 artists, 2 QA testers, and a producer. We remastered the company's best selling game in Unity. My team and I maintained effectiveness while working remotely for 6 months during quarantine because of Covid-19.
 
 ---
 
