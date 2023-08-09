@@ -41,7 +41,7 @@ header .site-title {
 }
 main {
   margin: 0 auto;
-  max-width: 650px;
+  max-width: 960px;
   padding: 3rem 0;
 }
 
@@ -128,7 +128,7 @@ main {
 }
 /* media query */
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 960px) {
   body {
     padding: 1.5rem;
   }
